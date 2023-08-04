@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	routes "GO-JWT/routes"
+	routes "golang-jwt-project/routes"
 )
 
 func main() {
